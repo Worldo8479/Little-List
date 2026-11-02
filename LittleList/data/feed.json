@@ -1,0 +1,154 @@
+{
+  "updatedAt": "2026-10-21T21:45:54+00:00",
+  "items": [
+    {
+      "id": "lms:36207",
+      "title": "Finish geometry classwork and review new vocabulary",
+      "source": "ASL LMS",
+      "detail": "Geometry \u2022 Optional textbook practice is listed in the original post.",
+      "url": "https://lms.asl.org/dash/#/post/36207",
+      "due": "2026-10-22T08:30:00+01:00",
+      "list": "School"
+    },
+    {
+      "id": "lms:36253",
+      "title": "Annotate Odyssey Book 21",
+      "source": "ASL LMS",
+      "detail": "English \u2022 Turn in your story cover sheet if you have not already.",
+      "url": "https://lms.asl.org/dash/#/post/36253",
+      "due": "2026-10-22T08:30:00+01:00",
+      "list": "School"
+    },
+    {
+      "id": "lms:programming-lesson17",
+      "title": "Complete CodeHS for loops (7.2) and submit while-loops practice",
+      "source": "ASL LMS",
+      "detail": "Programming \u2022 Lesson 17 homework; open class for full assignment.",
+      "url": "https://lms.asl.org/dash/#/classroom/2071121",
+      "due": "2026-10-22T08:30:00+01:00",
+      "list": "School"
+    },
+    {
+      "id": "lms:36333",
+      "title": "Complete history reading and questions",
+      "source": "ASL LMS",
+      "detail": "World Civilizations \u2022 Lesson slides 9\u201310 and 13\u201316.",
+      "url": "https://lms.asl.org/dash/#/post/36333",
+      "due": "2026-10-23T08:30:00+01:00",
+      "list": "School"
+    },
+    {
+      "id": "lms:36381",
+      "title": "Complete and grade the science practice assessment",
+      "source": "ASL LMS",
+      "detail": "Science \u2022 Bring specific questions on Friday.",
+      "url": "https://lms.asl.org/dash/#/post/36381",
+      "due": "2026-10-23T08:30:00+01:00",
+      "list": "School"
+    },
+    {
+      "id": "lms:36193",
+      "title": "Check completion: CER and light-waves video notes",
+      "source": "ASL LMS",
+      "detail": "Due earlier today; still marked \u201cMark as Done\u201d in LMS. Write three things learned from the video.",
+      "url": "https://lms.asl.org/dash/#/post/36193",
+      "due": "2026-10-21T08:30:00+01:00",
+      "list": "School"
+    },
+    {
+      "id": "lms:36136",
+      "title": "Check completion: Greece reading, SPRITE-G chart and timeline",
+      "source": "ASL LMS",
+      "detail": "Due earlier today; LMS still offers \u201cMark as Done\u201d.",
+      "url": "https://lms.asl.org/dash/#/post/36136",
+      "due": "2026-10-21T08:30:00+01:00",
+      "list": "School"
+    },
+    {
+      "id": "chat:crew-session-form",
+      "title": "Fill out the crew session-change form",
+      "source": "Google Chat",
+      "detail": "Coach Maddie says today is the last day. Skip if already submitted.",
+      "url": "https://forms.gle/pV8apbMc7ZQaTamv6",
+      "due": "2026-10-21T23:59:00+01:00",
+      "list": "School"
+    },
+    {
+      "id": "chat:crew-experience-form",
+      "title": "Complete the crew experience form",
+      "source": "Google Chat",
+      "detail": "Coach Maddie requested this ASAP today. Skip if already submitted.",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSeM2_goAGa94Xq6Vw-9IhOuvLcRTOUFm-_RMJXa6VQDmWrawg/viewform",
+      "due": null,
+      "list": "School"
+    },
+    {
+      "id": "chat:grade8-helpers",
+      "title": "Add your availability to the Grade 8 Helpers sheet",
+      "source": "Google Chat",
+      "detail": "Coach Wright requested availability for tomorrow.",
+      "url": "https://docs.google.com/spreadsheets/d/1Kfy59llYzHaTnqFkBsdLVtve4WEm35rVxMZBVVHeVlQ/edit",
+      "due": "2026-10-22T08:00:00+01:00",
+      "list": "School"
+    },
+    {
+      "id": "schoolmail:2026-10-21-birthday",
+      "title": "Sign Amaya\u2019s birthday card",
+      "source": "School Gmail",
+      "detail": "Emily asked everyone to sign tomorrow, in the usual spot.",
+      "url": "https://mail.google.com/mail/u/0/#inbox",
+      "due": "2026-10-22T15:00:00+01:00",
+      "list": "School"
+    }
+  ],
+  "sources": [
+    {
+      "id": "gmail",
+      "name": "Personal Gmail",
+      "status": "Connected",
+      "detail": "Personal Gmail connector is active. Tasks go in Personal.",
+      "checkedAt": "2026-10-21T21:45:54+00:00",
+      "url": "https://mail.google.com/"
+    },
+    {
+      "id": "schoolmail",
+      "name": "School Gmail",
+      "status": "Browser access",
+      "detail": "School inbox inspected in Chrome; scheduled checks require the signed-in session.",
+      "checkedAt": "2026-10-21T21:45:54+00:00",
+      "url": "https://mail.google.com/mail/u/0/#inbox"
+    },
+    {
+      "id": "calendar",
+      "name": "Google Calendar",
+      "status": "Connected",
+      "detail": "School calendar connected. Routine classes and working locations excluded from to-dos.",
+      "checkedAt": "2026-10-21T21:45:54+00:00",
+      "url": "https://calendar.google.com/"
+    },
+    {
+      "id": "lms",
+      "name": "ASL LMS",
+      "status": "Browser access",
+      "detail": "Upcoming tasks and today\u2019s unfinished tasks imported. Older overdue backlog not yet reviewed.",
+      "checkedAt": "2026-10-21T21:45:54+00:00",
+      "url": "https://lms.asl.org/dash/#/"
+    },
+    {
+      "id": "chat",
+      "name": "Google Chat",
+      "status": "Browser access",
+      "detail": "Rec Crew checked. Other spaces and direct messages have not been fully reviewed.",
+      "checkedAt": "2026-10-21T21:45:54+00:00",
+      "url": "https://chat.google.com/"
+    },
+    {
+      "id": "whatsapp",
+      "name": "WhatsApp",
+      "status": "Limited scan",
+      "detail": "Signed-in chat list checked; conversation contents not yet reviewed.",
+      "checkedAt": "2026-10-21T21:45:54+00:00",
+      "url": "https://web.whatsapp.com/"
+    }
+  ]
+}
